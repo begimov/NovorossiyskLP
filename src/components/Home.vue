@@ -4,14 +4,6 @@
       <div class="container">
         <div class="row">
           <div class="col"><img src="../assets/logo.png" class="logo" width="110"></div>
-          <!-- <div class="col d-none d-md-block"><span class="badge badge-primary">2&nbsp;МЕСЯЦА</span></div>
-          <div class="col d-none d-md-block text-center"><span class="badge badge-primary">ОНЛАЙН</span></div>
-          <div class="col d-none d-md-block text-right"><span class="badge badge-primary">БЕСПЛАТНО</span></div>
-          <div class="col d-md-none text-right">
-            <p><span class="badge badge-primary">2&nbsp;МЕСЯЦА</span></p>
-            <p><span class="badge badge-primary">ОНЛАЙН</span></p>
-            <p><span class="badge badge-primary">БЕСПЛАТНО</span></p>
-          </div> -->
         </div>
         <p class="header-title lead">Создайте систему управления компанией за&nbsp;8&nbsp;недель шаг за&nbsp;шагом</p>
         <h1 class="display-3 d-none d-sm-block"><strong>РУССКИЙ МЕНЕДЖМЕНТ<br>БИЗНЕС КАК СИСТЕМА</strong></h1>
@@ -22,10 +14,16 @@
       </div>
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
+    <div class="container">
+      <div class="row text-center">
         <div class="col">
-          <img src="../assets/cloud.jpg" class="img-fluid">
+          <h2>Заголовок</h2>
+        </div>
+      </div>
+      <div class="row last-row">
+        <div class="col">
+          <!-- <img src="../assets/cloud.jpg" class="img-fluid"> -->
+          //
         </div>
       </div>
     </div>
@@ -57,7 +55,7 @@
         </div>
       </div>    
 
-      <div class="container">
+      <!-- <div class="container">
         <div class="row last-row">
           <div class="col">
             <ul class="nav nav-tabs nav-tabs-links" id="myTab" role="tablist">
@@ -415,11 +413,11 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
 
     <div class="container">
-      <div class="row last-row align-items-center">
+      <!-- <div class="row last-row align-items-center">
         <div class="col-md-4">
           <img src="../assets/achievements.jpg" class="img-fluid" width="90%">
         </div>
@@ -442,9 +440,9 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
-      <!-- <div class="row text-center" ref="join-block">
+      <div class="row text-center" ref="join-block">
         <div class="col" style="margin-top:30px">
           <h2>Я участвую!</h2>
         </div>
@@ -452,10 +450,10 @@
       <div class="row last-row text-center">
         <div class="col">
           <Grform 
-            campaign_token="ng5Lk"
+            campaign_token="nwjhI"
           />
         </div>
-      </div> -->
+      </div>
 
       <div class="row last-row" style="margin-top:80px; font-family: 'Playfair Display', serif;">
         <div class="col-md-3" style="margin-bottom:20px;">
@@ -503,122 +501,6 @@
         </div>
       </div>
 
-      <!-- <div class="row text-center" ref="join-block">
-        <div class="col" style="margin-top:30px">
-          <h2>Я участвую!</h2>
-        </div>
-      </div>
-      <div class="row last-row text-center">
-        
-        <div class="col-lg-4">
-          <div class="card">
-            <div class="card-header bg-danger text-light">
-              <span class="lead"><strong>ПАКЕТ &laquo;СУПЕРМАРАФОН&raquo;</strong></span><br>
-              <span class="badge badge-warning" style="font-size: 0.8em;">Включает ПАКЕТ &laquo;МАРАФОН&raquo;</span><br>
-              <span class="lead"><strong>+</strong></span>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Индивидуальное сопровождение управляющего партнера iTeam Александра Кочнева.</li>
-              <li class="list-group-item">8&nbsp;консультаций в&nbsp;удобное для вас и&nbsp;вашей команды время после каждого мастер-класса, работа под руководством Наставника.</li>
-              <li class="list-group-item">Результат&nbsp;&mdash; готовый эффективный план проведения изменений. Управляемая и&nbsp;эффективная компания.</li>
-            </ul>
-            <div class="card-body">
-              <h2><span class="badge badge-primary">128&thinsp;000&nbsp;&#8381;</span></h2>
-              <Payment
-                WMI_PAYMENT_AMOUNT="128000"
-                WMI_DESCRIPTION="iTeam"
-                WMI_SUCCESS_URL="https://iteam.ru/promo/marafon/db"
-                WMI_FAIL_URL="https://iteam.ru/promo/marafon/db"
-                campaign_token="ng5PT"
-                product_name="ПАКЕТ «СУПЕРМАРАФОН»"
-              />
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4">
-          <div class="card border-danger card-accent">
-            <div class="card-header bg-danger text-light">
-              <span class="lead"><strong>ПАКЕТ &laquo;МАРАФОН&raquo;</strong></span><br>
-              <span class="badge badge-warning" style="font-size: 0.8em;">Включает ПАКЕТ &laquo;ЗРИТЕЛЬ&raquo;</span><br>
-              <span class="lead"><strong>+</strong></span>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Записи мастер-классов и&nbsp;дополнительные материалы (презентация, шаблоны и&nbsp;проекты документов).</li>
-              <li class="list-group-item">Материалы будут приходить на&nbsp;указанную вами почту еженедельно, по&nbsp;мере прохождения мастер-классов.</li>
-            </ul>
-            <div class="card-body">
-              <p>8 комплектов материалов</p>
-              <h2><span class="badge badge-primary">6&thinsp;400&nbsp;&#8381;</span></h2>
-              <Payment
-                WMI_PAYMENT_AMOUNT="6400"
-                WMI_DESCRIPTION="iTeam"
-                WMI_SUCCESS_URL="https://iteam.ru/promo/marafon/db"
-                WMI_FAIL_URL="https://iteam.ru/promo/marafon/db"
-                campaign_token="ng5u2"
-                product_name="ПАКЕТ «МАРАФОН»"
-              />
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4">
-          <div class="card">
-            <div class="card-header bg-dark text-light">
-              <span class="lead"><strong>ПАКЕТ &laquo;ЗРИТЕЛЬ&raquo;</strong></span>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">Участие во&nbsp;всех мастер-классах Марафона очно.</li>
-              <li class="list-group-item">Самостоятельное выполнение заданий наставника.</li>
-              <li class="list-group-item">Обсуждение вопросов и&nbsp;проблем в&nbsp;общей группе в&nbsp;социальных сетях.</li>
-            </ul>
-            <div class="card-body">
-              <Grform 
-                campaign_token="ng5Lk"
-              />
-            </div>
-          </div>
-        </div>
-        
-      </div> -->
-
-      <!-- <div class="row text-center">
-        <div class="col">
-          <h2>FAQ</h2>
-        </div>
-      </div>
-      <div class="row last-row">
-        <div class="col">
-          <div class="card">
-            <div class="card-body">
-              <div class="row">
-                <div class="col-sm-4">
-                  <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Какие методы оплаты доступны?</a>
-                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Оплата на&nbsp;вашем сайте безопасна?</a>
-                    <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Вы&nbsp;принимаете карты стран СНГ?</a>
-                  </div>
-                </div>
-                <div class="col-sm-8">
-                  <div class="tab-content" id="v-pills-tabContent">
-                    <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                      <p>Мы&nbsp;осуществляем оплату с&nbsp;помощью платежного сервиса WalletOne. Вы&nbsp;можете оплатить продукт практически любым доступным сегодня способом. Все способы вы&nbsp;можете <a href="https://www.walletone.com/ru/merchant/payments/#country=RU&amp;section=cash" target="_blank">увидеть здесь.</a></p>
-                    </div>
-                    <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                      <p>Wallet One использует стандарт безопасности PCI&nbsp;DSS, SSL-протокол, системы безопасности Verified by&nbsp;Visa и&nbsp;MasterCard SecureCode.</p>
-                      <p><a href="https://www.walletone.com/ru/merchant/security/" target="_blank">Подробнее здесь</a></p>
-                    </div>
-                    <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                      <p>Да, мы&nbsp;принимаем карты, выпущенные на&nbsp;территории Украины, Беларуси, Казахстана и&nbsp;ряда других стран. Список всех стран и&nbsp;вариантов оплаты можно <a href="https://www.walletone.com/ru/merchant/payments/#country=RU&amp;section=cash" target="_blank">увидеть по&nbsp;ссылке</a></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
-
     </div>
   </div>
 </template>
@@ -655,25 +537,12 @@ h2 {
   background-image: url("../assets/bg_block_01.jpg");
   background-size: cover;
 }
-/* .anapa-block-bg {
-  background-image: url("../assets/boni.png");
-  background-repeat: no-repeat;
-  background-size: contain;
-  height: 300px;
-}
-.anapa-block {
-  padding: 20px;
-} */
 .card-header-anapa {
   background-image: url("../assets/bg_block_anapa.jpg");
   background-size: cover;
   height: 200px;
   padding: 20px;
 }
-/* .achievements-container {
-  background-image: url("../assets/achievements_bg.jpg");
-  background-size: cover;
-} */
 .nav-tabs-links a {
   color: #fff;
   text-decoration: underline;
@@ -685,7 +554,6 @@ h2 {
   box-shadow: 0 0 20px rgba(0,0,0,0.3);
   border-width: 2px;
 }
-
 
 @media (max-width: 767.98px) {
   .header-title {
