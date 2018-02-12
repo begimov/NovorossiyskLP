@@ -1,6 +1,6 @@
-# imarathonDB
+# NovorossiyskLP
 
-> special project for lead iproduct
+> LP for offline iconference
 
 ## Build Setup
 
