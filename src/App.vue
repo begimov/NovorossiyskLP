@@ -33,13 +33,13 @@
           <a href="https://iteam.ru/company/offer">Реквизиты</a>
         </div>
         <div class="col-md-8 d-none d-md-block">
-          <div class="row anapa-block-bg">
+          <!-- <div class="row anapa-block-bg">
             <div class="col-md-3 ">&nbsp;</div>
             <div class="col-md-9">
               <h3>Дополнительно&nbsp;&mdash; конференция в&nbsp;Анапе для участников!</h3>
               <p class="lead"><span class="badge badge-light">Подробности в октябре</span></p>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
