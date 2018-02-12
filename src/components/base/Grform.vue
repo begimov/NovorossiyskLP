@@ -6,7 +6,7 @@
               <div class="row">
                   <div class="col-sm">
                     <div class="form-group form-group-lg">
-                      <input type="text" class="form-control" name="name" placeholder="Имя" v-model="modal.name">
+                      <input type="text" class="form-control" name="name" placeholder="ФИО" v-model="modal.name">
                     </div>
                   </div>
                 <div class="col-sm">
