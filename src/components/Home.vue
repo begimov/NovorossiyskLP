@@ -4,6 +4,7 @@
       <div class="container">
         <div class="row">
           <div class="col"><img src="../assets/logo.png" class="logo" width="110"></div>
+          <div class="col text-right"><span class="badge badge-primary">БЕСПЛАТНО</span></div>
         </div>
         <h1 class="display-4 d-none d-sm-block"><strong>Мастер-класс &laquo;Как создать систему управления компанией&raquo;</strong></h1>
         <h1 class="display-5 d-sm-none"><strong>Мастер-класс &laquo;Как создать систему управления компанией&raquo;</strong></h1>
@@ -16,7 +17,7 @@
 
       <div class="row text-center">
         <div class="col">
-          <h2>Для онлайн-участия, пожалуйста, зарегистрируйтесь ниже. Мы&nbsp;пришлем вам ссылку на&nbsp;трансляцию!</h2>
+          <h3>Для онлайн-участия, пожалуйста, зарегистрируйтесь ниже. Мы&nbsp;пришлем вам ссылку на&nbsp;трансляцию!</h3>
         </div>
       </div>
       <div class="row text-center" ref="join-block">
