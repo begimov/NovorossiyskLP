@@ -14,6 +14,11 @@
 
     <div class="container">
 
+      <div class="row text-center">
+        <div class="col">
+          <h2>Для онлайн-участия, пожалуйста, зарегистрируйтесь ниже. Мы&nbsp;пришлем вам ссылку на&nbsp;трансляцию!</h2>
+        </div>
+      </div>
       <div class="row text-center" ref="join-block">
         <div class="col" style="margin-top:30px">
           <h2>Форма регистрации</h2>
